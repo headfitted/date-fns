@@ -1,3 +1,5 @@
+Added "dk" locale which we use in VVP frontend
+
 <p align="center">
   <a href="https://date-fns.org/">
     <img alt="date-fns" title="date-fns" src="https://raw.githubusercontent.com/date-fns/date-fns/master/docs/logotype.svg" width="300" />
